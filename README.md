@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
+Additional startup instructions:
+
+1.Fork the repository
+
+2.Clone the forked repo
+
+3.Run npm install to install the dependencies
+
+4.Run npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
